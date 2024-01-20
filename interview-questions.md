@@ -26,7 +26,7 @@ Researched answer:
 
 Your answer: I cant remember right now but I know where to find the information and how to properly utilize it
 
-Researched answer:
+Researched answer: Test-Driven Developing. writing a failed test, do the minimum code to make the test pass and refactor the code helps test before writing so you know youre good
 
 3. What is a block in Ruby?
 
@@ -45,8 +45,10 @@ seems i was almost there
 
 Research and define the following terms.
 
-1. Database migrations:
+1. Database migrations: migrating data from one source database to another using a migration service
 
-2. Model validations:
+2. Model validations: refers to making sure the model works and performs as expected. so just checking it...
 
 3. Params: smaller parameters? or parameters held within parameters?
+no, turns out it allows passing of a variable number of parameters into a method. fancy syntax that helps us specify parameters separated by commas or no parameter at all
+
