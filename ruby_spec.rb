@@ -47,3 +47,12 @@ describe Bike do
     expect(bike.bike_info).to be_a(String)
   end
 end
+
+
+
+
+
+
+
+
+        G`  `
