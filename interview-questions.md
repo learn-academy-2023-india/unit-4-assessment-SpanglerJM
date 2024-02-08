@@ -10,40 +10,45 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 Similarities
 
-1.
-2.
-3.
+1. Both popular programming languages
+2. Both utilize objects and classes
+3. Both could be used for backend stuff possibly
 
 Differences
 
-1.
-2.
-3.
+1. Ruby is specifically a Object-Oriented-Programming language where JavaScript is a more broad programing language that is not limited to Classes and Objects
+2. While they might both share initial muses, programming productivity is Rubys goal.
+3. Only Java can be used for front end programming 
 
 Researched answer:
 
 2. What does it mean to implement a TDD workflow?
 
-Your answer:
+Your answer: I cant remember right now but I know where to find the information and how to properly utilize it
 
-Researched answer:
+Researched answer: Test-Driven Developing. writing a failed test, do the minimum code to make the test pass and refactor the code helps test before writing so you know youre good
 
 3. What is a block in Ruby?
 
-Your answer:
+Your answer: a block in ruby is your code, your class you have made and plan to manipulate later
 
-Researched answer:
+Researched answer: The part of code that starts and ends with 'do-end' along wiht curly braces between for the codeblock to sit.
 
 4. STRETCH: What is a version manager?
 
-Answer:
+Answer: a VM makes sure your app or webiste info is up to date and not missing anything that would make it slow or incorrect.
+
+it says logging of changes that can be traced to who changed the file.
+seems i was almost there 
 
 ## Looking Ahead: Terms for Next Unit
 
 Research and define the following terms.
 
-1. Database migrations:
+1. Database migrations: migrating data from one source database to another using a migration service
 
-2. Model validations:
+2. Model validations: refers to making sure the model works and performs as expected. so just checking it...
 
-3. Params:
+3. Params: smaller parameters? or parameters held within parameters?
+no, turns out it allows passing of a variable number of parameters into a method. fancy syntax that helps us specify parameters separated by commas or no parameter at all
+
